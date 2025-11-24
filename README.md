@@ -13,6 +13,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=AAAAAA&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Full-Stack+Enthusiast;Crafting+Clean+Designs+%26+Interactive+Web+Experiences;Always+Learning+%26+Building" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=placeholder&color=555555&style=for-the-badge" alt="Profile views" />
+</p>
+
 ---
 
 <!-- About Me -->
