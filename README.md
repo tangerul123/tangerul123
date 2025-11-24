@@ -63,9 +63,9 @@ Currently learning exclusive design, business development, and marketing to expa
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/Gmail-444444?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-555555?style=for-the-badge&logo=facebook&logoColor=ffffff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-666666?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
+  <a href="tangelm012@gmail.com"><img src="https://img.shields.io/badge/Gmail-444444?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+  <a href="https://www.facebook.com/tangrulislam.tangel"><img src="https://img.shields.io/badge/Facebook-555555?style=for-the-badge&logo=facebook&logoColor=ffffff" /></a>
+  <a href="https://www.instagram.com/tanju_islam123/"><img src="https://img.shields.io/badge/Instagram-666666?style=for-the-badge&logo=instagram&logoColor=ffffff" /></a>
 </p>
 
 ---
