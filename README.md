@@ -18,6 +18,10 @@
 </p>
 
 ---
+<!-- Stats -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=AAAAAA&center=true&vCenter=true&width=500&lines=GitHub+Statistics" />
+</h2>
 
 <!-- About Me -->
 <h2 align="center">
