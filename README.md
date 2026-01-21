@@ -80,19 +80,4 @@ Currently learning exclusive design, business development, and marketing to expa
 
 
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tangerul123&show_icons=true&bg_color=1A1A1A&title_color=AAAAAA&icon_color=AAAAAA&text_color=CCCCCC&card_width=400" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=tangerul123&theme=dark&background=1A1A1A&hide_border=false&sideNums=AAAAAA&currStreakNum=CCCCCC&fire=AAAAAA&ring=AAAAAA&stroke=AAAAAA&currStreakLabel=CCCCCC&card_width=420" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tangerul123&bg_color=1A1A1A&color=CCCCCC&line=AAAAAA&point=CCCCCC&area=true&hide_border=false" width="100%" />
-
-</div>
-
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:333333,75:555555,100:808080&height=120&section=footer" width="100%" />
-</p>
